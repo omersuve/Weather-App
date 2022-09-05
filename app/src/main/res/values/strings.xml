@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search">Search</string>
+    <string name="enter_a_city">Enter a City</string>
+    <string name="weather_app">WEATHER APP</string>
+    <string name="result_view"></string>
+    <string name="image">TODO</string>
+    <string name="tv_temp">TextView</string>
+    <string name="tv_city">TextView</string>
+    <string name="get_values">Get Val</string>
+</resources>
